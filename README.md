@@ -9,3 +9,11 @@ botserver
 A websockets server implementation for botserver
 
 https://github.com/guebot/botserver/wiki
+
+## Install:
+
+```
+npm install
+bower install
+npm start
+```
